@@ -1,0 +1,3 @@
+[submodule "ObjectiveGumbo/gumbo-parser"]
+	path = ObjectiveGumbo/gumbo-parser
+	url = git@github.com:google/gumbo-parser.git
